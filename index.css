@@ -1,6 +1,7 @@
 body{
     background-color: rgb(88, 92, 91);
     background-image: url("images/group-people-illustration-set_52683-33806.jpg");
+    background-size: cover;
     background-position: center;
     text-align: center;
 }
